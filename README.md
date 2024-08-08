@@ -20,6 +20,7 @@ Asp.Net based CMS is the only fully integrated 100% mobile responsive design Asp
 <li>Blogs</li>
 <li>Reports</li>
 <li>Manage Settings</li>
+</ul>
 
 <b>More details and Download Source Code:</b><br>
 <b>https://www.aspscriptsonline.com/product/content-management-system/<b>
